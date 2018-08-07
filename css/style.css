@@ -3024,7 +3024,7 @@ span.teaser {
 	margin: 0;
 	padding: 0;
 	font-weight: bold;
-	margin-bottom: 30px;
+	margin-bottom: 40px;
 }
 .accordion-inner img.full-size {
 	margin-top: 5px;
@@ -3040,7 +3040,7 @@ a.accordion-toggle, a:visited.accordion-toggle {
 	background: #EEE;
 	margin-right: 5px;
 }
-.de_tab .de_nav li span {
+.de_tab .de_nav li a {
 	padding: 8px 16px 8px 16px;
 	border-top: 1px solid #ddd;
 	border-bottom: 1px solid #ddd;
@@ -3206,7 +3206,7 @@ a.accordion-toggle, a:visited.accordion-toggle {
 	filter: grayscale(0%);
 	opacity: 1;
 }
-.de_light .de_tab.tab_style_2 .de_nav li span {
+.de_light .de_tab.tab_style_2 .de_nav li a {
 	background: none;
 	display: block;
 	text-decoration: none;
@@ -3214,7 +3214,7 @@ a.accordion-toggle, a:visited.accordion-toggle {
 	cursor: pointer;
 	border: none;
 }
-.de_light .de_tab.tab_style_2 .de_nav li.active span {
+.de_light .de_tab.tab_style_2 .de_nav li.active a {
 	border-bottom: solid 6px;
 	color: #333;
 	background: none;
@@ -4034,7 +4034,7 @@ a.btn-left, a.btn-right {
 
 /* ================================================== */
 
-de_tab .de_nav li span, .feature-box-small-icon i, a.btn-line:after, .de_count, .social-icons a i, .de_tab.tab_steps .de_nav li span, .de_tab.tab_steps .de_nav li span:hover, .de-gallery .overlay .icon i, .de-gallery .overlay .icon i:hover, .product img, .product img:hover, .mfp-close, .mfp-close:hover, .pic-hover .bg-overlay, .pic-hover:hover>.bg-overlay, i.btn-action-hide, .pic-hover.hover-scale img, .text-rotate-wrap, .text-rotate-wrap .text-item, .overlay-v, .carousel-item .pf_text .title, .carousel-item:hover .pf_text .title, .carousel-item .pf_text .title .type, .carousel-item:hover .pf_text .title .type, header, .owl-slider-nav .next, .owl-slider-nav .prev, #back-to-top.show, #back-to-top.hide, .social-icons-sm i, .social-icons-sm i:hover, .overlay-v i, .overlay-v i:hover, .de_tab .de_nav li span, #popup-box.popup-show, #popup-box.popup-hide, .form-underline input[type=text], .form-underline textarea, .form-underline input[type=email], .form-underline select, .btn-rsvp, .btn-close, .btn-custom, .overlay-v span, .de_tab.tab_style_4 .de_nav li,.form-subscribe input[type=text],img.grey-hover{
+de_tab .de_nav li span, .feature-box-small-icon i, a.btn-line:after, .de_count, .social-icons a i, .de_tab.tab_steps .de_nav li span, .de_tab.tab_steps .de_nav li span:hover, .de-gallery .overlay .icon i, .de-gallery .overlay .icon i:hover, .product img, .product img:hover, .mfp-close, .mfp-close:hover, .pic-hover .bg-overlay, .pic-hover:hover>.bg-overlay, i.btn-action-hide, .pic-hover.hover-scale img, .text-rotate-wrap, .text-rotate-wrap .text-item, .overlay-v, .carousel-item .pf_text .title, .carousel-item:hover .pf_text .title, .carousel-item .pf_text .title .type, .carousel-item:hover .pf_text .title .type, header, .owl-slider-nav .next, .owl-slider-nav .prev, #back-to-top.show, #back-to-top.hide, .social-icons-sm i, .social-icons-sm i:hover, .overlay-v i, .overlay-v i:hover, .de_tab .de_nav li a, #popup-box.popup-show, #popup-box.popup-hide, .form-underline input[type=text], .form-underline textarea, .form-underline input[type=email], .form-underline select, .btn-rsvp, .btn-close, .btn-custom, .overlay-v span, .de_tab.tab_style_4 .de_nav li,.form-subscribe input[type=text],img.grey-hover{
 	-o-transition: .5s;
 	-ms-transition: .5s;
 	-moz-transition: .5s;
